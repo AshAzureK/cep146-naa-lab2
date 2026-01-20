@@ -1,12 +1,12 @@
 # My Course Portfolio
  
-Welcome to my academic portfolio for (put your course name and section here)!
+Welcome to my academic portfolio for CEP 146 NAA !
  
 ## About Me
-- Name: (put your name here)
-- Program: (put your program name here)
-- Year: (put your academic year and semester here)
-- Favorite Programming Language: (put your choice here)
+- Name: Khondaker Ashraful Azam
+- Program: CEP 146
+- Year: 2026 First Year
+- Favorite Programming Language: Phython
  
 ## Course Goals
 - [ ] Learn version control with Git and GitHub
